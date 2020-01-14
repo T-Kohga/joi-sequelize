@@ -1,6 +1,6 @@
 {
   "name": "joi-sequelize",
-  "version": "0.2.9",
+  "version": "17.0.0",
   "scripts": {
     "test": "mocha test --recursive"
   },
@@ -9,7 +9,7 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "joi": "^13.4.0",
+    "@hapi/joi": "^17.0.0",
     "lodash": "^4.9.0"
   },
   "license": "MIT",
